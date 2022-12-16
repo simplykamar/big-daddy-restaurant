@@ -1,0 +1,18 @@
+.menu-item{
+	width: 180px;
+	height: 180px;
+}
+.menu-item-text{
+	font-size: 24px;
+	line-height: 10px;
+	font-weight: 400;
+}
+.nav-pills .nav-link{
+	color: #ed2e2e;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: #ed2e2e !important;
+}
+.text-orange{
+	color: #fd7e14;
+}

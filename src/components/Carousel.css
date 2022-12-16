@@ -1,0 +1,16 @@
+.main-carousel-item{
+	height: 50vh;
+}
+
+.main-carousel, .main-carousel-inner{
+	height: 50vh;
+}
+.main-carousel img{
+	/*background: rgba(76, 175, 80, 0.1);*/
+	/*opacity: .7;*/
+	min-width: 50vw;
+  	height: 50vh;
+	}
+.remove-opacity{
+	/*opacity: 1 !important;*/
+}

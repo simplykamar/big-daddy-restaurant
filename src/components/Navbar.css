@@ -1,0 +1,26 @@
+.custom-navbar{
+	opacity: .7;
+/*	background: transparent !important;
+*/	/*position: absolute;*/
+}
+.navbar{
+	transition: all 1.3s;
+}
+.navbar-nav .nav-item .nav-link{
+	font-size: 20px;
+	font-weight: 500;
+	color: black;
+}
+.logo{
+	width: 40px;
+	height: 40px;
+}
+.navbar-brand{
+	font-size: 24px;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}

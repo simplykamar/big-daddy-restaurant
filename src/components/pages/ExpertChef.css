@@ -1,0 +1,20 @@
+
+.expert-chef-section{
+	width: 100%;
+	height: 70vh;
+	text-align: center;
+	background: linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,.3), rgba(255,255,255,.3)),url("../../img/restro/chef1.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat:no-repeat ;
+
+}
+.expert-chef-section-content{
+	color: black !important;
+}
+.center-content{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}

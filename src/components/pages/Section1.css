@@ -1,0 +1,11 @@
+.section1-img{
+	background: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.1),rgba(255,255,255,.1)), url("../../img/restro/b2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+.balloons-size{
+	width: 120px;
+	height: 120px;
+	margin-right: 6px ;
+}

@@ -1,0 +1,15 @@
+footer{
+	width: 100%;
+	color: #d1c9c9;
+	background-color: #2d2b2b ;
+	padding: 20px;
+	line-height: 1;
+	text-align: center;
+}
+.font-weight-bolder{
+	font-weight: bolder;
+}	
+
+.fa-instagram{
+	color: #bc2a8d ;
+}
