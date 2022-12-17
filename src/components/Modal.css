@@ -1,0 +1,9 @@
+/*.bg-opacity{
+	opacity: .8;
+}*/
+.modal-content{
+	background-image:url('../img/restro/offer.png');
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+}

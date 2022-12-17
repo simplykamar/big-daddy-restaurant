@@ -14,5 +14,13 @@
 	background-color: #ed2e2e !important;
 }
 .text-orange{
-	color: #fd7e14;
+	color: 
+}
+.btn-orange{
+	background-color: #fd7e14;
+	color: white;
+}
+.btn-orange:hover{
+	background-color: #f77406;
+	color: white;
 }
