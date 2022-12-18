@@ -1,35 +1,14 @@
 import './App.css';
-
-import Header from './components/pages/Header'
-import About from './components/pages/About'
-import SpecialDish from './components/pages/SpecialDish'
-import ExpertChef from './components/pages/ExpertChef'
-import Testimony from './components/pages/Testimony'
-import Booking from './components/pages/Booking'
-import Section1 from './components/pages/Section1'
-import Section2 from './components/pages/Section2'
-import Menu from './components/pages/Menu'
-import Footer from './components/pages/Footer'
-import Modal from './components/Modal'
-import Gallery from './components/pages/Gallery'
+import {Suspense, lazy} from 'react';
+import Main from './components/Main'
+// const Main = lazy(()=>import('./components/Main'));
 
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Modal/>
-      <About/>
-      <SpecialDish/>
-      <ExpertChef/>
-      <Testimony/>
-      <Section2/>
-      <Menu/>
-      <Gallery/>
-      <Booking/>
-      <Section1/>
-      <Footer/>
-
+      
+      <Main/>
     </div>
   );
 }

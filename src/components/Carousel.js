@@ -1,4 +1,3 @@
-import img1 from '../img/restro/img1.jpg';
 import pizza from '../img/menu-item/pizza.jpg';
 import burger from '../img/menu-item/burger.jpg';
 import tiffin1 from '../img/restro/tiffin1.jpg';

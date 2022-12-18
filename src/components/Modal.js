@@ -3,7 +3,7 @@ import './Modal.css'
 const Modal = () => {
 	return(
 			<div>
-          <div className="modal fade" id="offer-modal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div className="modal fade" loading="lazy" id="offer-modal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div className="modal-dialog modal-dialog-centered">
               <div className="modal-content bg-opacity">
                 <div className="modal-header text-light">

@@ -1,4 +1,3 @@
-import c2 from '../../img/restro/more/c2.jpg'
 import c1 from '../../img/restro/more/c1.jpg'
 import g1 from '../../img/restro/more/g1.jpeg'
 import g2 from '../../img/restro/more/g2.jpeg'
