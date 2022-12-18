@@ -13,3 +13,7 @@ footer{
 .fa-instagram{
 	color: #bc2a8d ;
 }
+.remove-underline a{
+	color: #d1c9c9;
+	text-decoration: none;
+}

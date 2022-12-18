@@ -29,7 +29,7 @@ const SpecialDish = () => {
 				 	 	<img src={food} className="card-img-top on-hover-effect" alt="..."/>
 					 </div>
 					  <div className="card-body">
-					    <h4 className="card-title text-danger">Big Daddy Special</h4>
+					    <h4 className="card-title text-orange">Big Daddy Special</h4>
 					    <p className="card-text">Big Daddy Big Daddy Big Daddy
 					    Big Daddy Big Daddy Big DaddyBig Daddy Big Daddy Big Daddy
 					    </p>
@@ -42,7 +42,7 @@ const SpecialDish = () => {
 				 	 	<img src={coffee2} className="card-img-top on-hover-effect" alt="..."/>
 					 </div>
 					  <div className="card-body">
-					    <h4 className="card-title text-danger">Special Coffee</h4>
+					    <h4 className="card-title text-orange">Special Coffee</h4>
 					    <p className="card-text">Big Daddy Big Daddy Big Daddy
 					    Big Daddy Big Daddy Big DaddyBig Daddy Big Daddy Big Daddy
 					    </p>

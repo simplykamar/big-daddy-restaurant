@@ -19,7 +19,7 @@ const About = () =>{
               <p className="text-secondary">To serve healthy and hygienic food with unparalleled services with the high level of consistency to our valuable customers.</p>
                 <span className="text-dark">Welcome To Big Daddy!</span> 
                 <ul className="text-secondary">
-                <li>Over a X varieties of X coffee and Tea.</li>
+                <li>We have a varieties of dishes, coffee and Tea.</li>
                 <li>Live Music.</li>
                 <li>
                   In a hygienic environment, where our customer’s wellbeing holds an optimum value.

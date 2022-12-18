@@ -11,6 +11,7 @@ import Section2 from './components/pages/Section2'
 import Menu from './components/pages/Menu'
 import Footer from './components/pages/Footer'
 import Modal from './components/Modal'
+import Gallery from './components/pages/Gallery'
 
 
 function App() {
@@ -19,16 +20,15 @@ function App() {
       <Header/>
       <Modal/>
       <About/>
-
       <SpecialDish/>
       <ExpertChef/>
       <Testimony/>
-      <Booking/>
       <Section2/>
       <Menu/>
+      <Gallery/>
+      <Booking/>
       <Section1/>
       <Footer/>
-
 
     </div>
   );
