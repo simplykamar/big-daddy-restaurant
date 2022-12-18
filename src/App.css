@@ -1,7 +1,9 @@
 /*.App {
   text-align: center;
 }*/
-
+.carousel .carousel-item {
+    transition-duration: 1s !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

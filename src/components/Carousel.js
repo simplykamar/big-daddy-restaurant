@@ -9,7 +9,7 @@ import './Carousel.css'
 
 const Carousel = () => {
   return (
-        <div id="carouselExampleCaptions" className="carousel slide main-carousel" data-bs-ride="carousel">
+        <div id="carouselExampleCaptions" className="carousel slide main-carousel" data-bs-ride="carousel"  data-interval="500">
           <div className="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -21,7 +21,7 @@ const Carousel = () => {
           </div>
           <div className="carousel-inner main-carousel-inner">
 
-            <div className="carousel-item active main-carousel-item">
+            <div className="carousel-item active main-carousel-item" data-interval="100">
               <img src={pizza} className="d-block w-100" alt="1"/>
               <div className="carousel-caption ">
                 <h2>Tasty & Delicious Food</h2>
