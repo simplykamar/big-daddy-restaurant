@@ -9,7 +9,7 @@ const Modal = () => {
                 <div className="modal-header text-light">
                   <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                  <a href="tel:9634142017" className="text-center order-btn"><button type="button" className="btn btn-maroon">Order Now</button></a>
+                  <a href="tel:9044152088" className="text-center order-btn"><button type="button" className="btn btn-maroon">Order Now</button></a>
               </div>
             </div>
           </div>

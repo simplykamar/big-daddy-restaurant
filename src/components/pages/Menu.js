@@ -1,4 +1,10 @@
-import item1 from '../../img/menu-item/item1.jpg'
+import chowmean from '../../img/menu-item/chowmean.jpg'
+import coffee1 from '../../img/menu-item/coffee1.jpg'
+import pizzaPaneer from '../../img/menu-item/pizza-paneer.jpg'
+import paneer from '../../img/menu-item/paneer.jpg'
+import roll from '../../img/menu-item/roll.png'
+
+
 import './Menu.css'
 
 const Menu = () => {
@@ -26,69 +32,30 @@ const Menu = () => {
   	<div className="row container-fluid">
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={chowmean} className="img-fluid menu-item on-hover-effect rounded-2 rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Chow mein</p>
+		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
+
+  		</div>
+  		
+  		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
+  			<div className="inner">
+  			<img src={pizzaPaneer} className="img-fluid menu-item on-hover-effect rounded-2"/>
+		    </div>
+		    <p className="my-2 menu-item-text">Paneer Pizza</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={chowmean} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
-		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
-
-  		</div>
-  		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
-  			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
-		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
-		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
-
-  		</div>
-  		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
-  			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
-		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Chow mein</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
   		</div>
   	</div>
-  	<div className="row container-fluid">
-  		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
-  			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
-		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
-		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
-
-  		</div>
-  		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
-  			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
-		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
-		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
-
-  		</div>
-  		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
-  			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
-		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
-		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
-
-  		</div>
-  		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
-  			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
-		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
-		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
-  		</div>
-  	</div>
+  	
 
   </div>
 
@@ -96,33 +63,33 @@ const Menu = () => {
   		<div className="row container-fluid">
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={coffee1} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Coffee </p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={roll} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Veg Roll </p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={coffee1} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Coffee </p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={roll} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Veg Roll</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
   		</div>
   	</div>
@@ -132,33 +99,33 @@ const Menu = () => {
   		<div className="row container-fluid">
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={paneer} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Butter Paneer</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={paneer} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Butter Paneer</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={paneer} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Butter Paneer</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={paneer} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Butter Paneer</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
   		</div>
   	</div>
@@ -167,33 +134,33 @@ const Menu = () => {
   		<div className="row container-fluid">
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={chowmean} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Chow mein</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={chowmean} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Chow mein</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={chowmean} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Chow mein</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
 
   		</div>
   		<div className="col-lg-3 col-md-3 col-sm-12 col-12" data-aos="zoom-in-up">
   			<div className="inner">
-  			<img src={item1} className="img-fluid menu-item on-hover-effect"/>
+  			<img src={chowmean} className="img-fluid menu-item on-hover-effect rounded-2"/>
 		    </div>
-		    <p className="my-2 menu-item-text">Idli</p>
+		    <p className="my-2 menu-item-text">Chow mein</p>
 		    <p className="font-weight-bold text-orange"><i class="fa-solid fa-indian-rupee-sign"></i>150</p>
   		</div>
   	</div>

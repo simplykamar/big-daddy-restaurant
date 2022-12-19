@@ -17,7 +17,7 @@ const SpecialDish = () => {
 					  <div className="card-body">
 					    <h4 className="card-title text-orange">Delux Paneer pizza</h4>
 					    <p className="card-text">
-					    You should try Deluxe Veggie pizza from Big Daddy. Loaded with delectable mushrooms, golden corn, paneer, capsicum, and onions, this pizza guarantees an explosion of flavors in every bite.
+					    You should try Deluxe Veggie pizza from Big Daddy. Loaded with delectable mushrooms, golden corn, paneer, capsicum, and onions.
 
 					    </p>
 					  </div>

@@ -11,11 +11,11 @@ const Navbar = () =>{
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           {/*<ul className="navbar-nav ms">
-            <p><i class="fa-solid fa-phone-volume"></i> +91 123456789</p>
+            <p><i class="fa-solid fa-phone-volume"></i> +91 9044152088</p>
           </ul>*/}
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
           <li className="nav-item">
-            <a href="tel:9634142017" className="nav-link"><i class="fa-solid fa-phone-volume"></i> +91 9634142017</a>
+            <a href="tel:9044152088" className="nav-link"><i class="fa-solid fa-phone-volume"></i> +91 9044152088</a>
             </li>
             <li className="nav-item">
               <a className="nav-link active" aria-current="page" href="#">Home</a>
