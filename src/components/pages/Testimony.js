@@ -1,4 +1,12 @@
 import c1 from '../../img/restro/more/c1.jpg'
+import c2 from '../../img/restro/more/c2.jpeg'
+import c3 from '../../img/restro/more/c3.jpeg'
+import c4 from '../../img/restro/more/c4.jpeg'
+import c7 from '../../img/restro/more/c7.jpeg'
+import c5 from '../../img/restro/more/c5.jpeg'
+import c6 from '../../img/restro/more/c6.jpeg'
+import c8 from '../../img/restro/more/c8.jpeg'
+import c9 from '../../img/restro/more/c9.jpeg'
 
 import './Testimony.css'
 
@@ -31,8 +39,8 @@ const Testimony = () => {
 		                <span>4.5</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c2} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Krishan kant singh</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -41,8 +49,8 @@ const Testimony = () => {
 		                <span>4.5</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c3} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Hashim Ali</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -51,8 +59,8 @@ const Testimony = () => {
 		                <span>4.5</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c7} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Mohd Ali</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -66,8 +74,8 @@ const Testimony = () => {
             <div className="carousel-item">
               <div className="row">
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c4} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Mohd Rihan</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -76,8 +84,8 @@ const Testimony = () => {
 		                <span>4.5</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c5} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Subzar Rasool</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -86,8 +94,8 @@ const Testimony = () => {
 		                <span>4.8</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c8} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Harsh Kumar</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -96,8 +104,8 @@ const Testimony = () => {
 		                <span>5</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c6} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Amir Ali</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -121,8 +129,8 @@ const Testimony = () => {
 		                <span>4.5</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c7} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Mohd Ali</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -131,8 +139,8 @@ const Testimony = () => {
 		                <span>4.5</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c8} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Harsh Kumar</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
@@ -141,8 +149,8 @@ const Testimony = () => {
 		                <span>4.5</span>
 				</div>
 				<div className="col-lg-3 col-md-3 col-sm-12 col-12 mt-3 mt-sm-0 mt-lg-0 mt-md-0" data-aos="flip-up">
-		                <img src={c1} className="img-fluid rounded-circle custom-rounded"/>
-		                <h6 className="my-2">Kamar Alam</h6>
+		                <img src={c9} className="img-fluid rounded-circle custom-rounded"/>
+		                <h6 className="my-2">Mohd Hesham</h6>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
 		                <i class="fa-solid fa-star text-warning"></i>
